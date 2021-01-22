@@ -4,7 +4,7 @@ end
 
 def my_hash
   my_hash = {
-    my_key: my_value
+    my_key: 'my_value'
   }
 end
 
